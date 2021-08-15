@@ -13,5 +13,12 @@ Options:
  * CanExitCabin: Whether the pet has a random chance of leaving the cabin and roaming outside after the dialog message disappeares.
  * CanVisitOtherCabins: Whether the pet can wake up in other players cabins at the start of the day(player will be picked at random).
 
+# Installing
+Install https://smapi.io/ if you don't have it.
+
+Download the latest release from https://github.com/bizzycola/SpeakingPets/releases
+
+Place the SpeakingPets folder from inside the zip file into your smapi Mods folder and play the game!
+
 # Screenshot
 ![preview image](https://i.imgur.com/OHhpIMA.png)
