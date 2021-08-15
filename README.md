@@ -20,5 +20,15 @@ Download the latest release from https://github.com/bizzycola/SpeakingPets/relea
 
 Place the SpeakingPets folder from inside the zip file into your smapi Mods folder and play the game!
 
+# Developing
+If you decide to pull the project and work on it, only to find it doesn't load the packages, you need to update `SpeakingPets/SpeakingPets.csproj`.
+
+Specifically, you need to update this:
+```
+<GamePath>E:\SteamLibrary\steamapps\common\Stardew Valley</GamePath>
+```
+
+and change it to the path you have your game located in.
+
 # Screenshot
 ![preview image](https://i.imgur.com/OHhpIMA.png)
