@@ -1,0 +1,10 @@
+{
+  "Name": "SpeakingPets",
+  "Author": "Bizzycola",
+  "Version": "1.0.0",
+  "Description": "Pets spawn in a players cabin and will speak various greeting lines in the morning.",
+  "UniqueID": "Bizzycola.SpeakingPets",
+  "EntryDll": "SpeakingPets.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
